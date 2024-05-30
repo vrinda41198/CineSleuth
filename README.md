@@ -1,3 +1,5 @@
+# CineSleuth: Detecting Movie Titles from Abstract Plot Descriptions
+
 The phenomenon known as "tip of the tongue," where individuals struggle to recall movie titles despite vividly remembering plot details, presents a unique cognitive challenge. Our project seeks to harness the capabilities of Large Language Models (LLMs) to bridge the gap between human memory and artificial intelligence. By utilizing LLMs, we aim to transform abstract plot descriptions into accessible cinematic knowledge.
 
 These models excel in pattern recognition within extensive natural language datasets, allowing them to generate responses that mimic the data's style and structure. Our research focuses on leveraging these capabilities by training a language model on a comprehensive dataset of movie plots that spans various genres and eras. This approach addresses the widespread issue of memory retrieval in relation to movies, enhancing how people interact with and recall their cinematic experiences.
